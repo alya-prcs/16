@@ -1,0 +1,12 @@
+.bg-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    flex-basis: 45%;
+    height: 700px;
+    background-color: rgb(13, 85, 25);
+    background-image: url(img/pole-zelen-trava-dom-derevya.webp), url(img/green-png-44873.png), url(img/3F3F.webp), url(img/donat.png), url(img/lamp-png-34914.png);
+    background-size: 400px, 400px, 100px, 100px, 110px;
+    background-repeat: no-repeat, repeat-x, repeat-y, repeat-y, repeat-x;
+    background-position: center center, bottom, left, right, top;
+}
